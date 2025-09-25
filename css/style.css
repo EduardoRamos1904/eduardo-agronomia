@@ -257,7 +257,7 @@ header .container {
 
 /* Page Header */
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/banner2.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../Downloads/images.jpeg') no-repeat center center/cover;
     height: 300px;
     color: var(--white);
     display: flex;
